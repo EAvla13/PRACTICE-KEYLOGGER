@@ -2,11 +2,6 @@
 
 Virus created in Python, in a secure environment, which consists of recording all keyboard entries made by the person running the program in a .txt file. All keys and possible entries that I think will be recorded in order and with consistency.
 
-## Content
-- [Description](#-Description)
-- [Instalation](#-Instalation)
-- [Use](#-Use)
-
 ## Description
 This program was created to identify the types of vulnerabilities to which a computer is exposed. This keylogger virus creates a .txt file in which everything typed by the person running this program is saved. If you want to exit the program, press the “esc” key.
 And if you want to see all the entries you have made on the keyboard, just run the infor.txt file and you will see all the keys you have typed.
