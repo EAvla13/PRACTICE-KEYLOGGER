@@ -25,6 +25,6 @@ Once you run the main.py file, all the keys you type on your keyboard will be sa
 If you want to exit the program to check all the text entries made by the user, press the “esc” key and the program will exit. 
 
 ## Examples
-hola como estas\n
-bien y tu?\n
+hola como estas
+bien y tu?
 "user press esc"
