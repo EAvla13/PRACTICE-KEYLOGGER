@@ -24,3 +24,7 @@ And if you want to see all the entries you have made on the keyboard, just run t
 Once you run the main.py file, all the keys you type on your keyboard will be saved in a .txt file in the same location where you ran main.py. All keyboard entries will be found there.
 If you want to exit the program to check all the text entries made by the user, press the “esc” key and the program will exit. 
 
+## Examples
+hola como estas
+bien y tu?
+"user press esc"
