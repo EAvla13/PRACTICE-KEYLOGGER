@@ -11,11 +11,9 @@ And if you want to see all the entries you have made on the keyboard, just run t
    ```bash
    https://github.com/EAvla13/PRACTICE-KEYLOGGER.git
 2. Create a virtual environment:
-   python -m venv venv
+   python3 -m venv venv
    In WINDOWS:
-   venv\Scripts\activate
-   In Linux:
-   source venv/bin/activate
+   .\venv\Scripts\Activate.ps1 
 3. Install the dependencies from the requirements.txt file:
    pip install -r requirements.txt
 4. Run the program
