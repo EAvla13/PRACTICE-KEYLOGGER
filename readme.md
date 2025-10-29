@@ -12,7 +12,7 @@ And if you want to see all the entries you have made on the keyboard, just run t
    https://github.com/EAvla13/PRACTICE-KEYLOGGER.git
 2. Create a virtual environment:
    python3 -m venv venv
-   In WINDOWS:
+   In POWERSHELL:
    .\venv\Scripts\Activate.ps1 
 3. Install the dependencies from the requirements.txt file:
    pip install -r requirements.txt
